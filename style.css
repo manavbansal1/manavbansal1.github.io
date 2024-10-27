@@ -160,6 +160,70 @@ footer {
     color: blueviolet;
 }
 
+/* Experience Section */
+#experience {
+    max-width: 80vw;
+    margin: 40px auto;
+    padding: 20px;
+    color: white;
+    background-color: rgb(0, 0, 30);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+#experience h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    color: blueviolet;
+    margin-bottom: 1.5rem;
+}
+
+.experience-item {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: rgb(17, 17, 54);
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.experience-item h3 {
+    font-size: 1.8rem;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.company {
+    font-size: 1rem;
+    color: #ccc;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.duration {
+    font-weight: bold;
+    color: #aaa;
+}
+
+.experience-item ul {
+    padding-left: 20px;
+    list-style: none;
+}
+
+.experience-item ul li {
+    font-size: 1rem;
+    color: #ddd;
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+.experience-item ul li::before {
+    content: "✔️";
+    position: absolute;
+    left: 0;
+    color: blueviolet;
+}
+
 
 /* Contact Section */
 .footer {
