@@ -1,0 +1,104 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(4, 4, 43); 
+    color: white; 
+}
+
+/* Navigation bar style */
+nav {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    height: 80px; 
+    background-color: rgb(17, 17, 84); 
+    padding: 0 20px; 
+}
+
+
+.leftnav {
+    font-size: 1.5rem; 
+}
+
+.rightnav ul {
+    display: flex; 
+    list-style: none; 
+}
+
+
+.rightnav ul li {
+    margin: 0 15px; 
+}
+
+/* Anchor link style */
+.rightnav ul li a {
+    text-decoration: none; 
+    color: white; 
+    transition: color 0.3s ease; 
+}
+
+/* Anchor link hover effect */
+.rightnav ul li a:hover {
+    color: rgb(145, 145, 206); 
+    font-size: 1.05rem; 
+}
+
+footer {
+    background-color: rgb(17, 17, 38);
+    height: 200px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer {
+    display: flex;
+    margin: 23px 122px;
+    justify-content: space-evenly;
+    height: 70px;
+}
+
+.footer > div {
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.footer-second ul {
+    display: flex;
+    justify-content: center;
+    padding: 0; /* Reset padding for the ul */
+}
+
+.footer-second ul li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    color: white;
+    margin: 20px 30px;
+    text-align: center; /* Center align text under icon */
+}
+
+.footer-second ul li img {
+    width: 40px;
+    margin-bottom: 5px; /* Space between icon and text */
+}
+
+.footer-second ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-second ul li a:hover {
+    color: rgb(145, 145, 206);
+    font-size: 1.02rem;
+}
+
+.footer-first h3 {
+    font-size: 1.5rem;
+}
