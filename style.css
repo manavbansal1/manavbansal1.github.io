@@ -224,6 +224,41 @@ footer {
     color: blueviolet;
 }
 
+/* Education Section */
+#education {
+    max-width: 80vw;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+#education h2 {
+    font-size: 2.2rem;
+    text-align: center;
+    color: blueviolet;
+    margin-bottom: 20px;
+}
+
+.education-item {
+    margin-bottom: 20px;
+    padding: 10px 0;
+    border-bottom: 1px solid #444;
+}
+
+.education-item h3 {
+    font-size: 1.6rem;
+    color: white;
+}
+
+.degree, .duration, .gpa {
+    font-size: 1rem;
+    color: #ccc;
+}
+
+.gpa {
+    font-style: italic;
+    color: blueviolet;
+}
+
 
 /* Contact Section */
 .footer {
