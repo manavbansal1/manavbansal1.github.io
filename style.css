@@ -3,6 +3,11 @@
     margin: 0;
     padding: 0;
 }
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
 
 body {
     font-family: 'Poppins', sans-serif;
@@ -15,14 +20,19 @@ nav {
     display: flex;
     justify-content: space-between; 
     align-items: center; 
-    height: 80px; 
+    height: 90px; 
     background-color: rgb(17, 17, 84); 
     padding: 0 20px; 
 }
 
-
 .leftnav {
     font-size: 1.5rem; 
+}
+
+nav div ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .rightnav ul {
@@ -32,7 +42,10 @@ nav {
 
 
 .rightnav ul li {
+    list-style: none;
+    text-align: center;
     margin: 0 15px; 
+    font-size: 1.2rem;
 }
 
 /* Anchor link style */
@@ -55,6 +68,38 @@ footer {
     justify-content: space-around;
 }
 
+/* Bio Section */
+.firstSection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 130px 0;
+}
+
+.firstSection > div {
+    width: 30%;
+}
+
+.Bioleft {
+    font-size: 2rem;
+}
+
+.Bioright img {
+    width: 80%;
+    margin: 40px;
+    border-radius: 1.5cm;
+}
+
+.purple {
+    color: blueviolet
+}
+
+#element {
+    color: blueviolet;
+}
+
+
+/* Contact Section */
 .footer {
     display: flex;
     margin: 23px 122px;
@@ -102,3 +147,4 @@ footer {
 .footer-first h3 {
     font-size: 1.5rem;
 }
+
