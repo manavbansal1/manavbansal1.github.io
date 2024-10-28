@@ -225,6 +225,19 @@ footer {
     left: 0;
     color: blueviolet;
 }
+.volunteer-link {
+    color: blueviolet; 
+    text-decoration: none; 
+    font-weight: bold; 
+    display: inline-block; 
+    transition: color 0.3s ease; 
+}
+
+.volunteer-link:hover {
+    color: #ddd; 
+    text-decoration: underline; 
+}
+
 
 /* Education Section */
 #education {
