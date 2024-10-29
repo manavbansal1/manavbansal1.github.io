@@ -26,3 +26,9 @@ A list of programming languages and other skills, split into two categories:
 Details of my professional and volunteering experiences, including:
 - **CS Peer Educator** at Simon Fraser University (Sept. 2024 - Present)
 - **Orientation Leader** at Fraser International College (Sept. 2023 - Dec. 2023)
+Each experience includes specific contributions and a link to learn more.
+
+### 4. Education
+My educational background, including:
+- **Simon Fraser University**: Bachelor of Science in Computer Science, GPA: 4.23/4.33
+- **Fraser International College**: UTP Stage 2 in Computer Science, GPA: 4.23/4.33
