@@ -17,5 +17,7 @@ This portfolio website highlights my journey and interests as a Computer Science
 ### 1. Bio
 A brief introduction of who I am, featuring a dynamic text animation that showcases my main areas of interest like Computer Science and Web Development.
 
-
-
+### 2. Skills
+A list of programming languages and other skills, split into two categories:
+- **Programming Skills**: C++, Python, HTML, CSS, and x86_64 Assembly
+- **Other Skills**: Time Management, Teamwork, Project Management, Adaptability, and Problem Solving
