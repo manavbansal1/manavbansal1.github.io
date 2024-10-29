@@ -45,3 +45,7 @@ Feel free to reach out through any of the following platforms:
 - [GitHub](https://github.com/manavbansal1)
 - [LinkedIn](https://www.linkedin.com/in/manavbansal39/)
 - Email: [bansalmanav39@gmail.com](mailto:bansalmanav39@gmail.com)
+
+---
+
+Thank you for visiting my portfolio! I hope this gives you a comprehensive view of my background, skills, and interests.
