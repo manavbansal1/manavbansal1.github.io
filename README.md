@@ -47,3 +47,16 @@ Feel free to reach out through any of the following platforms:
 ---
 
 Thank you for visiting my portfolio! I hope this gives you a comprehensive view of my background, skills, and interests.
+
+---
+## License
+
+This project is licensed under the MIT License. 
+
+### Why I Chose the MIT License
+
+I picked the MIT License because it strikes a great balance between freedom and simplicity. Here’s why I think it’s a good fit:
+
+- **Easy to Understand**: The terms are clear and straightforward, so anyone can quickly grasp how they can use the code.
+- **Freedom to Use and Modify**: It lets people use, tweak, and share my code as they like, which I believe fosters creativity and innovation.
+- **Building a Community**: By choosing this license, I hope to encourage collaboration among developers. I want people to feel free to contribute while still giving credit for my original work.
