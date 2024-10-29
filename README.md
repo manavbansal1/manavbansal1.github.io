@@ -39,3 +39,9 @@ A list of activities I’m passionate about, like traveling, hiking, watching sc
 ### 6. Contact
 A footer section that provides links to connect with me on Instagram, GitHub, LinkedIn, and email.
 
+## Connect with Me
+Feel free to reach out through any of the following platforms:
+- [Instagram](https://www.instagram.com/_manavbansal_/)
+- [GitHub](https://github.com/manavbansal1)
+- [LinkedIn](https://www.linkedin.com/in/manavbansal39/)
+- Email: [bansalmanav39@gmail.com](mailto:bansalmanav39@gmail.com)
