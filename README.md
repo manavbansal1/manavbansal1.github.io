@@ -35,3 +35,7 @@ My educational background, including:
 
 ### 5. Personal Interests
 A list of activities I’m passionate about, like traveling, hiking, watching science fiction movies, playing chess, and exploring new technologies.
+
+### 6. Contact
+A footer section that provides links to connect with me on Instagram, GitHub, LinkedIn, and email.
+
