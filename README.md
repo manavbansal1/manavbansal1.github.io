@@ -21,3 +21,8 @@ A brief introduction of who I am, featuring a dynamic text animation that showca
 A list of programming languages and other skills, split into two categories:
 - **Programming Skills**: C++, Python, HTML, CSS, and x86_64 Assembly
 - **Other Skills**: Time Management, Teamwork, Project Management, Adaptability, and Problem Solving
+
+### 3. Experience
+Details of my professional and volunteering experiences, including:
+- **CS Peer Educator** at Simon Fraser University (Sept. 2024 - Present)
+- **Orientation Leader** at Fraser International College (Sept. 2023 - Dec. 2023)
