@@ -29,7 +29,7 @@ Each experience includes specific contributions and a link to learn more.
 
 ### 4. Education
 My educational background, including:
-- **Simon Fraser University**: Bachelor of Science in Computer Science, GPA: 4.23/4.33
+- **Simon Fraser University**: Bachelor of Science in Computer Science, GPA: 4.28/4.33
 - **Fraser International College**: UTP Stage 2 in Computer Science, GPA: 4.23/4.33
 
 ### 5. Personal Interests
